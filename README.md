@@ -25,3 +25,17 @@ The agenda for this meeting will include talks and discussions covering the foll
     - Q2. Are there gaps in the entire service lifecycle (deployment/instantiation/selection) that are not currently being addressed in the IETF and that are relevant?
     - Q3. Would it make sense to define a common set of communication and compute metrics to support the various use cases being served in the IETF?
     - Q4. If so, where should this effort be carried out within the IETF?
+
+**Related work:**
+
+- Exposure of network and compute capabilities for service placement and selection.
+    - https://datatracker.ietf.org/doc/draft-rcr-opsawg-operational-compute-metrics/ 
+    - https://datatracker.ietf.org/doc/draft-contreras-alto-service-edge/
+    - https://www.ietf.org/archive/id/draft-lcsr-alto-service-functions-02.txt   
+    - https://datatracker.ietf.org/meeting/117/materials/slides-117-alto-compute-information-retrieval-and-exposure-01 
+- Cellular information exposure to edge computing applications.
+    - https://datatracker.ietf.org/doc/html/draft-li-alto-cellular-use-cases
+- Security information exposure for trust modeling and measurement
+    - https://datatracker.ietf.org/meeting/interim-2023-alto-05/session/alto
+- Southbound mechanisms to obtain network Information
+    - https://datatracker.ietf.org/meeting/117/materials/slides-117-alto-alto-southbound-implementation-02 
