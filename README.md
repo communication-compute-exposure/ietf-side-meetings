@@ -4,6 +4,7 @@
 - Topic: “Exposure of Communication and Compute information to Support Edge Computing Applications”
 - When: Wed Nov 8, 15:30 -17:00, 
 - Where: Karlin 4
+- If you are remote: [Click here to join the meeting]([url](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxOGE0ZjYtYWRjMC00MzkxLTg1YTQtZmEyZDY1N2NlYjIx%40thread.v2/0?context=%7b%22Tid%22%3a%22a19f121d-81e1-4858-a9d8-736e267fd4c7%22%2c%22Oid%22%3a%22fca5f38d-5297-46aa-b455-d0973e7cb68a%22%7d))
  
 
 **Problem motivation.** As the industry has reached peak computational centralization, compute needs communication to scale through distributed 
