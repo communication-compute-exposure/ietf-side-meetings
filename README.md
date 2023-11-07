@@ -16,8 +16,12 @@ networks and for trust capabilities exposure.
 
 The agenda for this meeting will include talks and discussions covering the following topics:
 
-- Compute information exposure for service placement and selection.
-- Cellular information exposure to Internet applications.
-- Security information exposure for trust modelling and measurement.
-- Southbound mechanisms to obtain network and compute information.
-- IETF WGs GAP Analysis.
+- [20 mins] Compute information exposure for service placement and selection.
+- [10 mins] Cellular information exposure to Internet applications.
+- [15 mins] Security information exposure for trust modelling and measurement.
+- [10 mins] Southbound mechanisms to obtain network and compute information.
+- [35 mins] Discussion. Questions that we want to address:
+    - Q1. Is it likely/viable that the network can expose communication and compute information to the service provider and application?
+    - Q2. Are there gaps in the entire service lifecycle (deployment/instantiation/selection) that are not currently being addressed in the IETF and that are relevant?
+    - Q3. Would it make sense to define a common set of communication and compute metrics to support the various use cases being served in the IETF?
+    - Q4. If so, where should this effort be carried out within the IETF?
