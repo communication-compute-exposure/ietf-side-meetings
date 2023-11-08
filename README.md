@@ -5,7 +5,9 @@
 - When: Wed Nov 8, 15:30 -17:00, 
 - Where: Karlin 4
 - If you are remote: [Click here to join the meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxOGE0ZjYtYWRjMC00MzkxLTg1YTQtZmEyZDY1N2NlYjIx%40thread.v2/0?context=%7b%22Tid%22%3a%22a19f121d-81e1-4858-a9d8-736e267fd4c7%22%2c%22Oid%22%3a%22fca5f38d-5297-46aa-b455-d0973e7cb68a%22%7d)
- 
+
+**Meeting minutes**
+https://docs.google.com/document/d/1wCuU6uam_Yso8jPsIgrvxWuXl_DwpbnDBip5JFpzGdo/edit?usp=sharing 
 
 **Problem motivation.** As the industry has reached peak computational centralization, compute needs communication to scale through distributed 
 computing. There is a need to have a forum to discuss how the two sides of the same coin (compute and communication) can be exposed to the 
