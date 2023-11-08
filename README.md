@@ -16,10 +16,11 @@ networks and for trust capabilities exposure.
 
 The agenda for this meeting will include talks and discussions covering the following topics:
 
-- [20 mins] Compute information exposure for service placement and selection.
-- [10 mins] Cellular information exposure to Internet applications.
-- [15 mins] Security information exposure for trust modelling and measurement.
-- [10 mins] Southbound mechanisms to obtain network and compute information.
+- [25 mins] Compute information exposure for service placement and selection.
+- Related considerations:
+    - [5 mins] Cellular information exposure to Internet applications.
+    - [15 mins] Security information exposure for trust modelling and measurement.
+    - [10 mins] Southbound mechanisms to obtain network and compute information.
 - [35 mins] Discussion. Questions that we want to address:
     - Q1. Is it likely/viable that the network can expose communication and compute information to the service provider and application?
     - Q2. Are there gaps in the entire service lifecycle (deployment/instantiation/selection) that are not currently being addressed in the IETF and that are relevant?
