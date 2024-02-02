@@ -1,4 +1,4 @@
-**Meeting conclusions**
+**IETF 118 Side Meeting Conclusions**
 
 Meeting conclusions are summarized in the following IETF email thread. Please use this thread to participate, express your opinion, and/or follow the conversations:
 https://mailarchive.ietf.org/arch/msg/alto/SRggs_OPw8PTxSaGJcEdHOXwor4/
