@@ -1,11 +1,13 @@
-**IETF 118 Side Meeting Conclusions**
+**Exposure of Network and Compute information to Support Edge Computing Applications**
+
+**IETF 118 Side Meeting Conclusions:**
 
 Meeting conclusions are summarized in the following IETF email thread. Please use this thread to participate, express your opinion, and/or follow the conversations:
 https://mailarchive.ietf.org/arch/msg/alto/SRggs_OPw8PTxSaGJcEdHOXwor4/
 
 Video recording of the session: https://clipchamp.com/watch/GvNRyZkVMcE?utm_source=share&utm_medium=social&utm_campaign=watch
 
-**Agenda**
+**Agenda:**
 
 - Meeting minutes: https://docs.google.com/document/d/1wCuU6uam_Yso8jPsIgrvxWuXl_DwpbnDBip5JFpzGdo/edit?usp=sharing 
 - IETF Side meeting wiki: https://wiki.ietf.org/en/meeting/118/sidemeetings#Wednesday
