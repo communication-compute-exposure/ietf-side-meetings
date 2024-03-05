@@ -5,7 +5,8 @@
 - Meeting minutes: https://docs.google.com/document/d/1kJz6uNg3WtJo83cK8_29TyUkFJgehiBEdce7yVXw7Bs/edit?usp=sharing 
 - IETF Side meeting wiki: https://wiki.ietf.org/en/meeting/119/sidemeetings#meeting-tuesday
 - Topic: “Exposure of Communication and Compute information to Support Edge Computing Applications”
-- When: Tuesday March 19, 17:00 -18:30, 
+- When: Tuesday March 19, 17:00 -18:30
+- Videoconference (in case you are not in Australia): https://ietf.webex.com/meet/ietfsidemeeting2
 - Where: P6-7
 
 ​**Problem motivation.** As the industry has reached peak computational centralization, compute needs communication to scale through distributed computing. There is a need to have a forum to discuss how the two sides of the same coin (compute and communication) can be exposed to the application to make efficient service placement and selection decisions. This information exposure is to support several application lifecycle operations including compute and communication resource discovery, service deployment, service selection, and assurance. This is especially important at the edge of the network, where services such as distributed AI, XR/VR, vehicle networks (V2X), etc. need this compute and communication information to meet stringent performance requirements. Exposed information should also account for the application footprint reaching out to cellular networks and for trust capabilities.
