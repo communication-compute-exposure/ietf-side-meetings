@@ -25,9 +25,12 @@ The agenda for this meeting will include talks and discussions covering the foll
 - [10 minutes] "Mangrove: A Unified Framework for Internet Topology, Routing Abstraction, and Modeling".
     - Abstract: xxx.
     - Speaker: Y. R. Yang, B. L. Lewis, D. M. Mertus, A. S. Shi, J. Z. Zhang, Richard Yang <yry@cs.yale.edu>
-- [10 minutes] "xxx".
+- [10 minutes] "Mangrove: A Unified Framework for Internet Topology, Routing Abstraction, and Modeling".
     - Abstract: xxx.
-    - Speaker: L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
+    - Speaker: Y. R. Yang, B. L. Lewis, D. M. Mertus, A. S. Shi, J. Z. Zhang, Richard Yang <yry@cs.yale.edu>
+- [10 minutes] "MoWIE for Network Aware Application".
+    - Abstract: xxx.
+    - Speaker: Daniel Mertus <daniel.mertus@yale.edu>, Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, Richard Yang <yry@cs.yale.edu>
 - [10 minutes] "Joint Exposure of Network and Compute Information for Infrastructure-Aware Service Deployment".
     - Abstract: Service providers are starting to deploy computing capabilities across the network for hosting applications such as distributed AI workloads, AR/VR, vehicle networks, and IoT, among others. In this network-compute environment, knowing information about the underlying communication and compute resources is necessary to properly deploy and operate these applications. We discuss an initial approach towards exposing metrics reflecting compute and communication capabilities.
     - Speaker: S. Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>,  Jordi Ros-Giralt<jros@qti.qualcomm.com>, Roland Schott <Roland.Schott@telekom.de>.
