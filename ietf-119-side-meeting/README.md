@@ -35,7 +35,7 @@ The agenda for this meeting will include talks and discussions covering the foll
     - Abstract: Service providers are starting to deploy computing capabilities across the network for hosting applications such as distributed AI workloads, AR/VR, vehicle networks, and IoT, among others. In this network-compute environment, knowing information about the underlying communication and compute resources is necessary to properly deploy and operate these applications. We discuss an initial approach towards exposing metrics reflecting compute and communication capabilities.
     - Speaker: S. Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>,  Jordi Ros-Giralt<jros@qti.qualcomm.com>, Roland Schott <Roland.Schott@telekom.de>.
     
-- [20 mins] Discussion. Questions that we want to address:
+- [20 mins] Discussion. Questions that we want to address in this side meeting (to be added soon):
     - Q1. xxx
     - Q2. xxx
     - Q3. xxx
