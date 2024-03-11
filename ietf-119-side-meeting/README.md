@@ -13,12 +13,15 @@
 
 The agenda for this meeting will include talks and discussions covering the following topics:
 
+- [10 minutes] "Joint Exposure of Network and Compute Information for Infrastructure-Aware Service Deployment".
+    - Abstract: Service providers are starting to deploy computing capabilities across the network for hosting applications such as distributed AI workloads, AR/VR, vehicle networks, and IoT, among others. In this network-compute environment, knowing information about the underlying communication and compute resources is necessary to properly deploy and operate these applications. 
+    - Speaker: S. Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>,  Jordi Ros-Giralt<jros@qti.qualcomm.com>, Roland Schott <Roland.Schott@telekom.de>.
+- [10 minutes] "Computing in the Network Needs Network/Compute Information Exposure".
+    - Abstract: Computing in the network adds a new dimension to edge computing as compute and network resources become increasingly intertwined. Hence, exposing information on compute and network capacities and capabilities becomes crucial for a holistic system orchestration as we will sketch in this presentation..
+    - Speaker: Ike Kunze <ike.kunze@comsys.rwth-aachen.de>
 - [10 minutes] "Selection of Services and related Metrics".
     - Abstract: The presentation will highlight the need to consider different levels of granularity & abstraction that can be used to select the decision metrics. It will also propose a modular approach to combine and adapt metrics to jointly select egress routers and edge servers (or their LB) depending on context.
     - Speaker: Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>
-- [10 minutes] "xxx".
-    - Abstract: xxx.
-    - Speaker: Ike Kunze <ike.kunze@comsys.rwth-aachen.de>
 - [10 minutes] "xxx".
     - Abstract: xxx.
     - Speaker: Nitinder Mohan <mohan@in.tum.de>
@@ -31,9 +34,6 @@ The agenda for this meeting will include talks and discussions covering the foll
 - [10 minutes] "MoWIE for Network Aware Application".
     - Abstract: xxx.
     - Speaker: Daniel Mertus <daniel.mertus@yale.edu>, Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, Richard Yang <yry@cs.yale.edu>
-- [10 minutes] "Joint Exposure of Network and Compute Information for Infrastructure-Aware Service Deployment".
-    - Abstract: Service providers are starting to deploy computing capabilities across the network for hosting applications such as distributed AI workloads, AR/VR, vehicle networks, and IoT, among others. In this network-compute environment, knowing information about the underlying communication and compute resources is necessary to properly deploy and operate these applications. We discuss an initial approach towards exposing metrics reflecting compute and communication capabilities.
-    - Speaker: S. Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>,  Jordi Ros-Giralt<jros@qti.qualcomm.com>, Roland Schott <Roland.Schott@telekom.de>.
     
 - [20 mins] Discussion. Questions that we want to address in this side meeting (to be added soon):
     - Q1. xxx
