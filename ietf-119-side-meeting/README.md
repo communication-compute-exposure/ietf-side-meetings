@@ -28,17 +28,19 @@ The agenda for this meeting will include talks and discussions covering the foll
 - [10 minutes] "Mangrove: A Unified Framework for Internet Topology, Routing Abstraction, and Modeling".
     - Abstract: xxx.
     - Speaker: Y. R. Yang, B. L. Lewis, D. M. Mertus, A. S. Shi, J. Z. Zhang, Richard Yang <yry@cs.yale.edu>
-- [10 minutes] "Mangrove: A Unified Framework for Internet Topology, Routing Abstraction, and Modeling".
-    - Abstract: xxx.
-    - Speaker: Y. R. Yang, B. L. Lewis, D. M. Mertus, A. S. Shi, J. Z. Zhang, Richard Yang <yry@cs.yale.edu>
 - [10 minutes] "MoWIE for Network Aware Application".
     - Abstract: xxx.
     - Speaker: Daniel Mertus <daniel.mertus@yale.edu>, Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, Richard Yang <yry@cs.yale.edu>
     
 - [20 mins] Discussion. Questions that we want to address in this side meeting (to be added soon):
-    - Q1. xxx
-    - Q2. xxx
-    - Q3. xxx
+    - Q1. For this effort/group, what mechanisms of exposure are in scope?
+        - On-path vs off-path
+        - Leveraging existing IETF solutions vs developing APIs
+    - Q2. Right trade-off between transparency, security, optimal performance.
+    - Q3. Next steps:
+        - Does this work fit in a existing WG?
+        - New WG?
+        - New RG?
     - Q4. xxx
 
 **Related work:**
