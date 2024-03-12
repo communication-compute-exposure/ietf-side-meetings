@@ -3,7 +3,7 @@
 - Meeting minutes: https://docs.google.com/document/d/1kJz6uNg3WtJo83cK8_29TyUkFJgehiBEdce7yVXw7Bs/edit?usp=sharing 
 - IETF Side meeting wiki: https://wiki.ietf.org/en/meeting/119/sidemeetings#meeting-tuesday
 - Topic: “Exposure of Communication and Compute information to Support Edge Computing Applications”
-- When: Tuesday March 19, 17:00 -18:30
+- When: Tuesday March 19, 17:00 -18:30 (Brisbane, Australia time) 
 - Videoconference (in case you are not in Australia): https://ietf.webex.com/meet/ietfsidemeeting2
 - Where: P6-7
 
