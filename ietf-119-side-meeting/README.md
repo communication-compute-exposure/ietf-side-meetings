@@ -22,6 +22,9 @@ The agenda for this meeting will include talks and discussions covering the foll
 - [10 minutes] "Selection of Services and related Metrics".
     - Abstract: The presentation will highlight the need to consider different levels of granularity & abstraction that can be used to select the decision metrics. It will also propose a modular approach to combine and adapt metrics to jointly select egress routers and edge servers (or their LB) depending on context.
     - Speaker: Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>
+- [10 minutes] "Operator's Information Exposure".
+    - Abstract: xxx.
+    - Speaker: L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
 - [10 minutes] "xxx".
     - Abstract: xxx.
     - Speaker: Nitinder Mohan <mohan@in.tum.de>
@@ -32,15 +35,14 @@ The agenda for this meeting will include talks and discussions covering the foll
     - Abstract: xxx.
     - Speaker: Daniel Mertus <daniel.mertus@yale.edu>, Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, Richard Yang <yry@cs.yale.edu>
     
-- [20 mins] Discussion. Questions that we want to address in this side meeting (to be added soon):
-    - Q1. For this effort/group, what mechanisms of exposure are in scope?
+- [30 mins] Discussion. Questions that we want to address in this side meeting (to be added soon):
+    - Q1. For this effort/group, what mechanisms of exposure we want to be within scope? For instance:
         - On-path vs off-path
-        - Leveraging existing IETF solutions vs developing APIs
-    - Q2. Right trade-off between transparency, security, optimal performance.
+        - Leveraging existing IETF solutions vs developing new APIs
+    - Q2. What is the general trade-off we want to hit between transparency/security and optimal performance?
     - Q3. Next steps:
-        - Does this work fit in a existing WG?
-        - New WG?
-        - New RG?
+        - Does this work fit in any existing WG?
+        - New WG? 
     - Q4. xxx
 
 **Related work:**
