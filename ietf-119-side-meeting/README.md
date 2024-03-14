@@ -25,8 +25,8 @@ The agenda for this meeting will include talks and discussions covering the foll
 - [10 minutes] "Operator's Information Exposure".
     - Abstract: xxx.
     - Speaker: L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
-- [10 minutes] "xxx".
-    - Abstract: xxx.
+- [10 minutes] "Making Orchestration Application Aware: A Case for Augmented Reality at the Edge".
+    - Abstract: Distributed interactive applications, particularly Augmented Reality (AR), necessitate edge computing for their stringent latency and high data rate demands, yet orchestrating their microservices is complex due to reliance on imprecise estimations of application performance via infrastructure metrics. Our extensive experiments reveal that these estimations often fail to accurately reflect actual performance, occasionally showing an inverse relationship. In this talk, we will discuss our sidecar approach which allows applications to convey crucial internal performance metrics to the orchestrator, enabling more effective service deployment and scheduling.
     - Speaker: Nitinder Mohan <mohan@in.tum.de>
 - [10 minutes] "Mangrove: A Unified Framework for Internet Topology, Routing Abstraction, and Modeling".
     - Abstract: xxx.
