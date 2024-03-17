@@ -23,18 +23,16 @@ The agenda for this meeting will include talks and discussions covering the foll
     - Abstract: The presentation will highlight the need to consider different levels of granularity & abstraction that can be used to select the decision metrics. It will also propose a modular approach to combine and adapt metrics to jointly select egress routers and edge servers (or their LB) depending on context.
     - Speaker: Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>
 - [10 minutes] "Operator's Information Exposure".
-    - Abstract: xxx.
     - Speaker: L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
 - [10 minutes] "Making Orchestration Application Aware: A Case for Augmented Reality at the Edge".
     - Abstract: Distributed interactive applications, particularly Augmented Reality (AR), necessitate edge computing for their stringent latency and high data rate demands, yet orchestrating their microservices is complex due to reliance on imprecise estimations of application performance via infrastructure metrics. Our extensive experiments reveal that these estimations often fail to accurately reflect actual performance, occasionally showing an inverse relationship. In this talk, we will discuss our sidecar approach which allows applications to convey crucial internal performance metrics to the orchestrator, enabling more effective service deployment and scheduling.
     - Speaker: Nitinder Mohan <mohan@in.tum.de>
 - [10 minutes] "Mangrove: A Unified Framework for Internet Topology, Routing Abstraction, and Modeling".
-    - Abstract: xxx.
+    - Abstract: This work describes a novel system called Mangrove for obtaining global visibility across the Internet.  It achieves this through constructing a comprehensive, unified representation of the Internet's topology and routing behavior by aggregating and indexing diverse data sources.
     - Speaker: Y. R. Yang, B. L. Lewis, D. M. Mertus, A. S. Shi, J. Z. Zhang, Richard Yang <yry@cs.yale.edu>
 - [10 minutes] "MoWIE for Network Aware Application".
-    - Abstract: xxx.
+    - Abstract: This work demonstrates, through realistic evaluations, that 5G mobile network information such as MCS (Modulation and Coding Scheme) can effectively expose the dynamics of the underlying network and can be made available to applications through MoWIE, so the applications can adapt key control knobs such as media codec schemes, encapsulation, and application layer processing to minimize QoE distortion.
     - Speaker: Daniel Mertus <daniel.mertus@yale.edu>, Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, Richard Yang <yry@cs.yale.edu>
-    
 - [30 mins] Discussion. Questions that we want to address in this side meeting (to be added soon):
     - Q1. For this effort/group, what mechanisms of exposure we want to be within scope? For instance:
         - On-path vs off-path
@@ -43,7 +41,6 @@ The agenda for this meeting will include talks and discussions covering the foll
     - Q3. Next steps:
         - Does this work fit in any existing WG?
         - New WG? 
-    - Q4. xxx
 
 **Related work:**
 
