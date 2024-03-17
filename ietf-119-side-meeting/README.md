@@ -9,7 +9,7 @@
 
 ​**Problem motivation.** As the industry has reached peak computational centralization, compute needs communication to scale through distributed computing. There is a need to have a forum to discuss how the two sides of the same coin (compute and communication) can be exposed to the application to make efficient service placement and selection decisions. This information exposure is to support several application lifecycle operations including compute and communication resource discovery, service deployment, service selection, and assurance. This is especially important at the edge of the network, where services such as distributed AI, XR/VR, vehicle networks (V2X), etc. need this compute and communication information to meet stringent performance requirements. Exposed information should also account for the application footprint reaching out to cellular networks and for trust capabilities.
 
-**Agenda: (This agenda is still being developed)**
+**Agenda:**
 
 The agenda for this meeting will include talks and discussions covering the following topics:
 
@@ -26,7 +26,7 @@ The agenda for this meeting will include talks and discussions covering the foll
     - Speaker: L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
 - [10 minutes] "Making Orchestration Application Aware: A Case for Augmented Reality at the Edge".
     - Abstract: Distributed interactive applications, particularly Augmented Reality (AR), necessitate edge computing for their stringent latency and high data rate demands, yet orchestrating their microservices is complex due to reliance on imprecise estimations of application performance via infrastructure metrics. Our extensive experiments reveal that these estimations often fail to accurately reflect actual performance, occasionally showing an inverse relationship. In this talk, we will discuss our sidecar approach which allows applications to convey crucial internal performance metrics to the orchestrator, enabling more effective service deployment and scheduling.
-    - Speaker: Nitinder Mohan <mohan@in.tum.de>
+    - Speaker: Giovanni Bartolomeo (giovanni.bartolomeo@tum.de), Nitinder Mohan (mohan@in.tum.de), Jörg Ott (ott@in.tum.de)
 - [10 minutes] "Mangrove: A Unified Framework for Internet Topology, Routing Abstraction, and Modeling".
     - Abstract: This work describes a novel system called Mangrove for obtaining global visibility across the Internet.  It achieves this through constructing a comprehensive, unified representation of the Internet's topology and routing behavior by aggregating and indexing diverse data sources.
     - Speaker: Y. R. Yang, B. L. Lewis, D. M. Mertus, A. S. Shi, J. Z. Zhang, Richard Yang <yry@cs.yale.edu>
@@ -54,4 +54,6 @@ The agenda for this meeting will include talks and discussions covering the foll
 - Security information exposure for trust modeling and measurement
     - https://datatracker.ietf.org/meeting/interim-2023-alto-05/session/alto
 - Southbound mechanisms to obtain network Information
-    - https://datatracker.ietf.org/meeting/117/materials/slides-117-alto-alto-southbound-implementation-02 
+    - https://datatracker.ietf.org/meeting/117/materials/slides-117-alto-alto-southbound-implementation-02
+- Distributed Mobile Augmented Reality Applications at the Edge:
+    - https://dl.acm.org/doi/10.1145/3624354.3630584
