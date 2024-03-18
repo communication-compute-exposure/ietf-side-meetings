@@ -16,7 +16,7 @@ The agenda for this meeting will include talks and discussions covering the foll
 - [10 minutes] "Joint Exposure of Network and Compute Information for Infrastructure-Aware Service Deployment".
     - Abstract: Service providers are starting to deploy computing capabilities across the network for hosting applications such as distributed AI workloads, AR/VR, vehicle networks, and IoT, among others. In this network-compute environment, knowing information about the underlying communication and compute resources is necessary to properly deploy and operate these applications. 
     - Speaker: S. Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>,  Jordi Ros-Giralt<jros@qti.qualcomm.com>, Roland Schott <Roland.Schott@telekom.de>.
-- [10 minutes] "Operator's Information Exposure".
+- [10 minutes] "ALTO integration with Kafka and future plans".
     - Speaker: L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
 - [10 minutes] "Selection of Services and related Metrics".
     - Abstract: The presentation will highlight the need to consider different levels of granularity & abstraction that can be used to select the decision metrics. It will also propose a modular approach to combine and adapt metrics to jointly select egress routers and edge servers (or their LB) depending on context.
