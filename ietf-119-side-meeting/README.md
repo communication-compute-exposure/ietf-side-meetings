@@ -1,6 +1,6 @@
 **Exposure of Network and Compute information to Support Edge Computing Applications**
 
-- Meeting minutes: https://docs.google.com/document/d/1kJz6uNg3WtJo83cK8_29TyUkFJgehiBEdce7yVXw7Bs/edit?usp=sharing 
+- Meeting minutes: https://notes.ietf.org/m6f4FrwpR_iLkkudH8qioQ
 - IETF Side meeting wiki: https://wiki.ietf.org/en/meeting/119/sidemeetings#meeting-tuesday
 - Topic: “Exposure of Communication and Compute information to Support Edge Computing Applications”
 - When: Tuesday March 19, 17:00 -18:30 (Brisbane, Australia time) 
