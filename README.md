@@ -9,4 +9,3 @@ This group meets every Tuesday at 9am EST using the following zoom room (anybody
 **List of Content**
 - IETF 118 Side Meeting: https://github.com/compute-exposure/ietf-side-meetings/tree/main/ietf-118-side-meeting
 - IETF 119 Side Meeting: https://github.com/compute-exposure/ietf-side-meetings/tree/main/ietf-119-side-meeting
-- Minutes of the weekly meetings held in between IETF meetings: https://github.com/compute-exposure/ietf-side-meetings/blob/main/2024-ietf-compute-exposure-weekly-meeting-minutes-non-working-group.md
