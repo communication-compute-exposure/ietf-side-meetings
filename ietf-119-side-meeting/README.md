@@ -19,7 +19,7 @@ The agenda for this meeting will include talks and discussions covering the foll
 - [10 minutes] "ALTO integration with Kafka and future plans".
     - Abstract: We will present Telefonica's integration of ALTO and Kafka for information exposure.
     - Speaker: L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
-- [10 minutes] "Selection of Services and related Metrics".
+- [10 minutes] "Selection of Services and relation to compute metrics".
     - Abstract: The presentation will highlight the need to consider different levels of granularity & abstraction that can be used to select the decision metrics. It will also propose a modular approach to combine and adapt metrics to jointly select egress routers and edge servers (or their LB) depending on context.
     - Speaker: Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>
 - [10 minutes] "Computing in the Network Needs Network/Compute Information Exposure".
