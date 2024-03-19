@@ -35,13 +35,14 @@ The agenda for this meeting will include talks and discussions covering the foll
     - Abstract: This work demonstrates, through realistic evaluations, that 5G mobile network information such as MCS (Modulation and Coding Scheme) can effectively expose the dynamics of the underlying network and can be made available to applications through MoWIE, so the applications can adapt key control knobs such as media codec schemes, encapsulation, and application layer processing to minimize QoE distortion.
     - Speaker: Daniel Mertus <daniel.mertus@yale.edu>, Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, Richard Yang <yry@cs.yale.edu>
 - [30 mins] Discussion. Questions that we want to address in this side meeting (to be added soon):
-    - Q1. For this effort/group, what mechanisms of exposure we want to be within scope? For instance:
-        - On-path vs off-path
-        - Leveraging existing IETF solutions vs developing new APIs
-    - Q2. What is the general trade-off we want to hit between transparency/security and optimal performance?
-    - Q3. Next steps:
-        - Does this work fit in any existing WG?
-        - New WG? 
+    - Q1. **Focus**. Defining the scope/bounderies of this effort:
+        - E.g., on-path vs off-path
+        - Leveraging existing RFCs for information exposure (e.g., ALTO) vs creating new work
+    - Q2. **Existing work**. Are you aware of this topic being addressed in any other WG?
+    - Q3. **Way forward**. Is there interest in moving this work forward? In which way? 
+        - Mailing list.
+        - Within another WG? 
+        - BOF?
 
 **Related work:**
 
