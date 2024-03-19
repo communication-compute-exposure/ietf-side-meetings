@@ -30,7 +30,7 @@ The agenda for this meeting will include talks and discussions covering the foll
     - Speaker: Giovanni Bartolomeo (giovanni.bartolomeo@tum.de), Nitinder Mohan (mohan@in.tum.de), Jörg Ott (ott@in.tum.de)
 - [10 minutes] "Mangrove: A Unified Framework for Internet Topology, Routing Abstraction, and Modeling".
     - Abstract: This work describes a novel system called Mangrove for obtaining global visibility across the Internet.  It achieves this through constructing a comprehensive, unified representation of the Internet's topology and routing behavior by aggregating and indexing diverse data sources.
-    - Speaker: Y. R. Yang, B. L. Lewis, D. M. Mertus, A. S. Shi, J. Z. Zhang, Richard Yang <yry@cs.yale.edu>
+    - Speaker: Joseph Zhang, B. L. Lewis, D. M. Mertus, A. S. Shi, Dong Guo, Richard Yang <yry@cs.yale.edu>
 - [10 minutes] "MoWIE for Network Aware Application".
     - Abstract: This work demonstrates, through realistic evaluations, that 5G mobile network information such as MCS (Modulation and Coding Scheme) can effectively expose the dynamics of the underlying network and can be made available to applications through MoWIE, so the applications can adapt key control knobs such as media codec schemes, encapsulation, and application layer processing to minimize QoE distortion.
     - Speaker: Daniel Mertus <daniel.mertus@yale.edu>, Sabine Randriamasy <sabine.randriamasy@nokia-bell-labs.com>, Richard Yang <yry@cs.yale.edu>
