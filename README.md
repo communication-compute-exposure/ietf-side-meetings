@@ -4,7 +4,7 @@ In this repo you will find material related to the side meetings being held in t
 
 **When do we meet?** 
 
-This group meets every Tuesday at 9am EST using the following zoom room (anybody interested in this topic is welcome to join!): https://yale.zoom.us/my/yryang
+This group generally meets every Tuesday at 9am EST using the following zoom room (anybody interested in this topic is welcome to join!): https://yale.zoom.us/my/yryang
 
 **List of Content**
 - IETF 118 Side Meeting: https://github.com/compute-exposure/ietf-side-meetings/tree/main/ietf-118-side-meeting
