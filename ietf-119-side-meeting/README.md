@@ -6,6 +6,7 @@
 - When: Tuesday March 19, 17:00 -18:30 (Brisbane, Australia time) 
 - Videoconference (in case you are not in Australia): https://ietf.webex.com/meet/ietfsidemeeting2
 - Where: P6-7
+- Attendance: 50+ online and 35+ in the room.
 
 ​**Problem motivation.** As the industry has reached peak computational centralization, compute needs communication to scale through distributed computing. There is a need to have a forum to discuss how the two sides of the same coin (compute and communication) can be exposed to the application to make efficient service placement and selection decisions. This information exposure is to support several application lifecycle operations including compute and communication resource discovery, service deployment, service selection, and assurance. This is especially important at the edge of the network, where services such as distributed AI, XR/VR, vehicle networks (V2X), etc. need this compute and communication information to meet stringent performance requirements. Exposed information should also account for the application footprint reaching out to cellular networks and for trust capabilities.
 
